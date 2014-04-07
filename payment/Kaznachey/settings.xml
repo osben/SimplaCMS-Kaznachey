@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<name>
+		Казначей
+	</name>
+	<settings>
+		<variable>kaznachey_id</variable>
+		<name>Идентификатор мерчанта</name>
+	</settings>
+	<settings>
+		<variable>kaznachey_key</variable>
+		<name>Секретный ключ мерчанта</name>
+	</settings>
+</module>
